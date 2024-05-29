@@ -7,5 +7,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Elasticgirl
-* Sara Lopez
+
